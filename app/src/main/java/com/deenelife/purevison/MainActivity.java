@@ -1,4 +1,4 @@
-package com.deenelife.purevison;
+package com.elegant.purevision;
 
 import android.app.Activity;
 import android.app.AlertDialog;
